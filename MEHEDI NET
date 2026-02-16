@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 ,tsportshd
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 ,JamunaTV
+http://172.16.29.2:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 ,ekattor tv
+http://103.96.235.18:9090/sports3/index.m3u8
+#EXTINF:-1 ,somoytv
+http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 ,channelihd
+http://172.16.29.2:8090/hls/channelihd.m3u8
+#EXTINF:-1 ,AtnNews
+http://172.16.29.2:8090/hls/AtnNews.m3u8
+#EXTINF:-1 ,ZeeBanglaHD
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 ,JalshaMoviesHD
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 ,ColorsBanglaHD
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 ,StarJalshaHD
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 ,ZeeCinemaHD
+http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 ,SonyHD
+http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 ,SonyAtth
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 ,&pictures HD
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 ,24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 ,24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 ,24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 ,8X music
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 ,AAKASH AATH
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+#EXTINF:-1 ,ananda tv
+https://edge2.roarzone.info:8445/roarzone/edge3/ananda-tv/index.m3u8?token=90dad718abf3dbc4717feffa0b0cf3718ca370dc-2b34a0b474d1e76158ddffe1c98cda37-1771244589-1771240989
+#EXTINF:-1 ,and pictures
+https://edge2.roarzone.info:8445/roarzone/edge3/pictures-hd/index.m3u8?token=20b4263074a89dc8016b242744fa5db34a70f602-107db671a466a1152964efbba12c2444-1771241354-1771237754
+#EXTINF:-1 ,animal planet
+https://edge2.roarzone.info:8445/roarzone/edge3/animal-planet-hd/index.m3u8?token=ff845d1126f983c5a4c5dc101be1f7f33273ed07-f0f620043fa595f28be7e85d1b74e72c-1771241354-1771237754
+#EXTINF:-1 ,asian tv
+https://edge2.roarzone.info:8445/roarzone/edge3/asian-tv/index.m3u8?token=df4deb1d1163bb2e84615165fa1d0dac42455718-65afae4db87b75787b8f7359cf7f8c53-1771241354-1771237754
+#EXTINF:-1 ,Astro Grandstand
+https://a1xs.vip/1100032
+#EXTINF:-1 ,ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 ,B4U_Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 ,b4u music
+https://edge2.roarzone.info:8445/roarzone/edge3/b4u-music/index.m3u8?token=1b8e708d904051789c1292a8396076e6bfd415db-e4fa58e8768019122d00ef1e47a81141-1771241354-1771237754
+#EXTINF:-1 ,Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,bangla tv
+https://edge2.roarzone.info:8445/roarzone/edge3/bangla-tv/index.m3u8?token=17e76e885fcb69508940e2b38f60fb858d3102f3-f6c241f0e46aaf24a3f358a4931997e5-1771241354-1771237754
+#EXTINF:-1 ,bijoy-tv
+https://edge2.roarzone.info:8445/roarzone/edge3/bijoy-tv/index.m3u8?token=1578fd96c1e0e06fba46e89892bfd8ab8ed78d4c-77b563820d7ae144c7c095ebb00970ad-1771241354-1771237754
+#EXTINF:-1 ,Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 ,BTVNews HD
+http://103.229.254.25:7001/play/a065/index.m3u8
+#EXTINF:-1 ,cartoon network
+https://edge2.roarzone.info:8445/roarzone/edge3/cartoon-network/index.m3u8?token=eebfeda5da54fea39563c8f82fb6e8ad0aab9886-cb8cd67d3cd7a3ff565e59609452fce5-1771241354-1771237754
+#EXTINF:-1 ,channel s
+https://edge2.roarzone.info:8445/roarzone/edge3/channel-s/index.m3u8?token=7f450f2afbd3702c48a86c27d72cf0486669ac4d-cefe87fbb088af31a57ee3d23eaacfca-1771241354-1771237754
+#EXTINF:-1 ,Channel24
+https://playztv-apps.pages.dev/channel-24/index.m3u8
+#EXTINF:-1 ,Colors Cineplex HD
+https://cdn-2.pishow.tv/live/228/228_1.m3u8
+#EXTINF:-1 ,Colors HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 ,ekhon
+https://edge2.roarzone.info:8445/roarzone/edge3/ekhon-tv/index.m3u8?token=a3e6ddbd74868796b8b811e039ea06e131f502e1-5787854f0d7519d8177535a999135b94-1771244589-1771240989
+#EXTINF:-1 ,Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 ,global tv
+https://edge2.roarzone.info:8445/roarzone/edge3/global-tv/index.m3u8?token=6b158b6588df5a0d5ebd152c645670b909c60ae7-88862095bb91a45356509c3a7357694b-1771244589-1771240989
+#EXTINF:-1 ,Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 ,Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 ,sony aath
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-aath/index.m3u8?token=54e1f0a21804767dc6164e88706e218c90f42f7e-55b5e22af466d708b1c31e11fdc64f1e-1771241354-1771237754
+#EXTINF:-1 ,sony max
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-max/index.m3u8?token=22dd35023fdacf4b115f9d6ac146d45eee4b05f2-10ae612a06fcf9a8c127a120fe0080ce-1771244589-1771240989
+#EXTINF:-1 ,sony max hd
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-max-hd/index.m3u8?token=c624f133b80426ebc2c7fffa6d4ea1ae73c71ab8-66fa179561e0f9972036964a6c14e944-1771244589-1771240989
+#EXTINF:-1 ,zee bangla cinema
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=9bc0a43e7a67fb701dcf6e865d23ed7a3ce4db1d-f6cc8c53dd1b141a16517a731f229e26-1771244589-1771240989
