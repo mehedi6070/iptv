@@ -1,1 +1,1 @@
-# iptv
+https://is.gd/mehedinet
