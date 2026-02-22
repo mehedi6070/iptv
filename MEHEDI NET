@@ -4,17 +4,35 @@ http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 ,JamunaTV
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
 #EXTINF:-1 ,ekattor tv
-http://103.96.235.18:9090/sports3/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1998800.m3u8
 #EXTINF:-1 ,somoytv
 http://172.16.29.2:8090/hls/somoytv.m3u8
 #EXTINF:-1 ,channelihd
 http://172.16.29.2:8090/hls/channelihd.m3u8
 #EXTINF:-1 ,AtnNews
-http://172.16.29.2:8090/hls/AtnNews.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 ,Atn Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1998800.m3u8
+#EXTINF:-1 ,Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 ,durontotv
+https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,rajdhaniweb
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+#EXTINF:-1 ,Akhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8
+#EXTINF:-1 ,Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+#EXTINF:-1 ,Independend
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 ,N TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1998800.m3u8
+#EXTINF:-1 ,Dipto Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1998800.m3u8
 #EXTINF:-1 ,ZeeBanglaHD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,JalshaMoviesHD
-http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 ,ColorsBanglaHD
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 ,StarJalshaHD
@@ -24,7 +42,7 @@ http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
 #EXTINF:-1 ,SonyHD
 http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 ,SonyAtth
-http://172.16.29.2:8090/hls/SonyAtth.m3u8
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-aath/index.m3u8?token=3cf787849e0257d33502f8298116ceb78398d87e-97f234216601b41325822f8bc68d05a8-1771244589-1771240989
 #EXTINF:-1 ,&pictures HD
 http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 ,24/7 Gopal Bhar
@@ -33,8 +51,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 ,24/7 Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
-#EXTINF:-1 ,8X music
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 ,Mh One
+https://livestream.jswk.online/playlisttest/live/chunks.m3u8
+#EXTINF:-1 ,9xm
+https://b.jsrdn.com/strm/channels/9xm/m2.m3u8
+#EXTINF:-1 ,Ptc Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_4.m3u8
 #EXTINF:-1 ,AAKASH AATH
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 ,ananda tv
