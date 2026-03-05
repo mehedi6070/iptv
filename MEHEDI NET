@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,tsportshd
 http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 ,Gazi TV
+https://edge2.roarzone.info:8447/roarzone/edge2/gazi/tracks-v1a1/mono.m3u8?token=986d99f9b5a8a7a534753efaf48cfff2e64bcda7-0ec2c57665f8bc297c62c6ae2baf8e9a-1772730550-1772726950
 #EXTINF:-1 ,JamunaTV
 http://172.16.29.2:8090/hls/JamunaTV.m3u8
 #EXTINF:-1 ,ekattor tv
@@ -32,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 #EXTINF:-1 ,ZeeBanglaHD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,JalshaMoviesHD
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge2/jalsha-movies/tracks-v1a1/mono.m3u8?token=09d84609eeaa8c2cbb2417543dcfb2a3c9789b7a-7a3ad7c6ed81f8f070851bb76e8c9ac7-1772730456-1772726856
 #EXTINF:-1 ,ColorsBanglaHD
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 ,StarJalshaHD
@@ -48,15 +50,17 @@ http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 ,SonyAtth
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 ,&pictures HD
-http://103.229.254.25:7001/play/a033/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/tracks-v1a1/mono.m3u8?token=3a177dec1a546171c295c048ad75c9d1c2f6c6cd-a817c41883d271fb2a6af011356d0a84-1772730392-1772726792
 #EXTINF:-1 ,24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 ,24/7 Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 ,24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 ,StarGold HD
+https://edge2.roarzone.info:8447/roarzone/edge2/star-gold/tracks-v1a1/mono.m3u8?token=0382f2e27f81b255ce239658e776f08de3315588-3ba9b2def5260c7ebedae64dd77c5c5c-1772730904-1772727304
 #EXTINF:-1 ,ZeeTVHD
 http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 ,SangeetBangla
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 ,9xm
 https://b.jsrdn.com/strm/channels/9xm/m2.m3u8
 #EXTINF:-1 ,Ptc Music
@@ -88,7 +92,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8?t
 #EXTINF:-1 ,Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 ,BTVNews HD
-http://103.229.254.25:7001/play/a065/index.m3u8
+http://172.16.29.2:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 ,cartoon network
 https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/tracks-v1a1/mono.m3u8?token=7e166b13237bd80dd74a0eb8f8b4128de28e1db5-1090b97ed8b82daf9e12d4c65bf7f45b-1772706028-1772702428
 #EXTINF:-1 ,channel s
@@ -111,11 +115,3 @@ https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 ,Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
