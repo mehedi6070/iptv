@@ -24,7 +24,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 #EXTINF:-1 ,Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 ,Nagorik
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+http://103.89.248.10:8082/NAGORIK-TV/tracks-v1/index.fmp4.m3u8?token=be477e064cd4adee71d79f32a7082aa16a0b7c0d-5b16210c505f8ac24a8b94acc5aba19b-1772888667-1772877867
 #EXTINF:-1 ,News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,Akhon TV
