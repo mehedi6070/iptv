@@ -2,9 +2,9 @@
 #EXTINF:-1 ,tsportshd
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 ,Maasranga TV
-https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/tracks-v1a1/mono.m3u8?token=f55e9ebd835a4249ade66085252ac528dcac6400-cbb402ccb2bfb4c76d8bff6e6706995c-1773135296-1773131696
+https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/tracks-v1a1/mono.m3u8?token=318687677cf610261f46f98f0fcd809025308004-9b53cd7960716000fbf4e1b09dd0c509-1773746683-1773743083
 #EXTINF:-1 ,Gazi Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge2/gazi/tracks-v1a1/mono.m3u8?token=68b204079afa1872fbbc732a92edae546a1bbca9-ded9096aa7fcc3bdfb09a38a4acf5658-1773902717-1773899117
 #EXTINF:-1 ,Boishakhi TV
 https://tvsen6.aynascope.net/boishakhitv/index.m3u8?e=1772891048&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f37d0c6c53ac12bbfe993514ed916266
 #EXTINF:-1 ,Channel 9
@@ -27,10 +27,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 ,Nagorik
 http://103.89.248.10:8082/NAGORIK-TV/tracks-v1/index.fmp4.m3u8?token=be477e064cd4adee71d79f32a7082aa16a0b7c0d-5b16210c505f8ac24a8b94acc5aba19b-1772888667-1772877867
+#EXTINF:-1 ,mohonatv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,Akhon TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 #EXTINF:-1 ,Independend
@@ -42,9 +44,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 #EXTINF:-1 ,Duronto TV
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1772891051&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=faa78414a2787955ff8719b014909936
 #EXTINF:-1 ,My TV
-https://tvsen6.aynascope.net/mytv/index.m3u8?e=1772891054&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=034273082b0cad7fd646ef9c96b0b4fe
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ananda TV
-https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/tracks-v1a1/mono.m3u8?token=25cbcf156e004328a0234b225ec3954de281c40d-b39284db81bb1d3ec0670644845df4ed-1773135381-1773131781
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,G-Serise
@@ -52,7 +54,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ZeeBanglaHD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,JalshaMoviesHD
-https://edge2.roarzone.info:8447/roarzone/edge2/jalsha-movies/tracks-v1a1/mono.m3u8?token=38095895021c9d7daf84e35827b9ec871b9d93b0-cb724a3e576c92aa6205f0e7d05f34de-1773135216-1773131616
+https://edge2.roarzone.info:8447/roarzone/edge2/jalsha-movies/tracks-v1a1/mono.m3u8?token=acedb2330b6c8f0d161157d33afc2d976d0ecf1d-3468da6ff877192500f8db314be0259e-1773902846-1773899246
 #EXTINF:-1 ,colors Bangla Movie
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,ColorsBanglaHD
@@ -90,7 +92,7 @@ http://172.16.29.138:8090/hls/9xm.m3u8
 #EXTINF:-1 ,Ptc Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_4.m3u8
 #EXTINF:-1 ,ZING
-http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/zing/tracks-v1a1/mono.m3u8?token=189dcd8baebc91b59269dc505152fa964cd835d0-0df7b2bb316ae3bc799a846fd2745dbf-1773903026-1773899426
 #EXTINF:-1 ,AAKASH AATH
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 ,ColorsCineplexHD
@@ -108,33 +110,33 @@ https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/tracks-v1a1/mono.m
 #EXTINF:-1 ,Yrf Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb553d1e786c64869bd43e6ed1ef41a3d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c09e0a957f378bbdbe306f2c180680585ee2be5da5edf50b41dd69a0e01b40882e4de08b5fc8d54aba9d865998419b20f31794c7a38adb4285d4c201936d824669224237f9d219a9043cdcd5b76623957d24475100a8f3d3b6793588434c4bebbfe58b25ae4380d97ec1573eb556cc14c428dc3fe34986f15eaca88cda406a30b08b0e3270eeb6f6cab31e1b894bd7eea9d17a779cb6337d44c2629162083082f2c611cb9241c3f873cbe4274d78f390439a8fbbccbae3da04cf73b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d71260e2ecbbd5acb81d55b4a126c8e9251d9165bf49bbc8ad10a34dd73593dcc65ca501163dc3e0e2fb6cd9817fba92440c14405fcaf2825bb2140b48d45dde3ca/33/1280x720_2300392/index.m3u8
 #EXTINF:-1 ,b4u music
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/tracks-v1a1/mono.m3u8?token=2ffb6c155c40aec445c3201a04c4b03653eacb45-f9ba98e9afa0f897efdcc7acf1d99a63-1772706100-1772702500
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/tracks-v1a1/mono.m3u8?token=57f8df722d3e324c0f31d1152e70df5b836e37d8-65e2044143460af5fddd6c7c05a34350-1773903088-1773899488
 #EXTINF:-1 ,Baallee
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,bangla tv
-https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/tracks-v1a1/mono.m3u8?token=7118c8b8bb78020b11138cd9380d7471940f58be-6752385d5003fd9b0548101c647f9972-1772706198-1772702598
+https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/tracks-v1a1/mono.m3u8?token=be5d1126bee01b6f1a9b473bbbb2f14c729f2b60-4b880aaf4fb8da2f11205e5da23db71d-1773902966-1773899366
 #EXTINF:-1 ,bijoy-tv
-https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8?token=b4f9eb995f1166f9130d6dd4d5cc27dbf7abd00e-a521211653e1615d3563b426d264f94c-1772705533-1772701933
+https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8?token=8113a6536b813a91e44a964d7897af26bd0ee3e9-88ee7f201af3444647ce861ea71ea6dc-1773902907-1773899307
 #EXTINF:-1 ,Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 ,BTVNews HD
-http://172.16.29.2:8090/hls/BTVNationalHD.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,cartoon network
-https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/tracks-v1a1/mono.m3u8?token=7e166b13237bd80dd74a0eb8f8b4128de28e1db5-1090b97ed8b82daf9e12d4c65bf7f45b-1772706028-1772702428
+https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/tracks-v1a1/mono.m3u8?token=53e3a7b90945107b4693ed43c75dc0610ed6ae08-a81c008d2e79f1a02d0eb4308120e00d-1773903145-1773899545
 #EXTINF:-1 ,channel s
-https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/tracks-v1a1/mono.m3u8?token=c61382fbfe1bca624051d21b1a1789417e8c3ca3-2164290a06fc88af5a1002a4f2fe3a4a-1772705974-1772702374
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,STAR-SPORTS
-http://103.89.248.14:8082/STAR-SPORTS-1/tracks-v1/index.fmp4.m3u8?token=f5f8a9f51aacdf9048828170e6341469fa5d5cc7-96fc364cca2113c239c0be13395eae3e-1772882839-1772872039
+http://172.16.29.226:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Colors HD
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 ,Hindi Movie 24
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,STARPLUSHD
-http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://172.16.29.226:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 ,NICK
-http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/tracks-v1a1/mono.m3u8?token=c6800920fb8386bc2567d319ed883c2ed8e03c91-39e6c73432199cfc15ec06a8d6a8208a-1773903226-1773899626
 #EXTINF:-1 ,ZB CARTOON
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Goldmines
