@@ -87,6 +87,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 ,StarGold HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 ,Star Gold 2 HD (1080p)
+http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 ,ZeeTVHD
 http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 ,SangeetBangla
@@ -94,13 +96,13 @@ http://103.229.254.25:7001/play/a07m/index.m3u8
 #EXTINF:-1 ,hindihitshd
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 ,9xm
 http://103.229.254.25:7001/play/a07o/index.m3u8
 #EXTINF:-1 ,Ptc Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_4.m3u8
 #EXTINF:-1 ,Music India (720p) [Not 24/7]
-https://cdn-2.pishow.tv/live/226/master.m3u8
+http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 ,AAKASH AATH
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 ,ColorsCineplexHD
