@@ -4,11 +4,11 @@ http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 ,Maasranga TV
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 ,GLOBAL TV HD
-http://103.229.254.25:7001/play/a05o/index.m3u8
+http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 ,Gazi Tv
-http://103.229.254.25:7001/play/a06t/index.m3u8
+http://198.195.239.50:8095/bdixbd.net_gazitvhd/index.m3u8
 #EXTINF:-1 ,Boishakhi TV
-https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 ,Bengali Beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 ,Channel 9
@@ -16,13 +16,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 #EXTINF:-1 ,RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 ,JamunaTV
-http://172.16.29.2:8090/hls/JamunaTV.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 ,ekattor tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1998800.m3u8
 #EXTINF:-1 ,somoytv
 http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 ,Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 ,channelihd
-http://172.16.29.2:8090/hls/channelihd.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 ,AtnNews
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 ,Atn Bangla
@@ -68,7 +70,7 @@ http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 ,Star Plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 ,ZeeCinemaHD
-http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+http://103.229.254.25:7001/play/a0c2/index.m3u8
 #EXTINF:-1 ,ZeeBanglaCinemaHD
 http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
 #EXTINF:-1 ,sony max hd
@@ -82,9 +84,9 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 ,Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 ,24/7 Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 ,Mehedi Net-01626886070
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 ,StarGold HD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 ,Star Gold 2 HD (1080p)
@@ -105,12 +107,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 ,AAKASH AATH
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
-#EXTINF:-1 ,ColorsCineplexHD
-http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
+#EXTINF:-1 ,MAX Movies
+http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:-1 ,and pictures
 http://172.16.29.2:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 ,animal planet
-http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:-1 ,Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 ,Punjabi Hits (1080p)
@@ -128,7 +130,7 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmFuZ2xhLXR2&e=.m3u8
 #EXTINF:-1 ,bijoy-tv
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvYmlqb3ktdHY=&e=.m3u8
 #EXTINF:-1 ,Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 ,BTVNews HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,cartoon network
