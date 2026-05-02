@@ -57,6 +57,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,SANANDA TV
+https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 ,ZeeBanglaHD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,JalshaMoviesHD
@@ -70,7 +72,7 @@ http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 ,Star Plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 ,ZeeCinemaHD
-http://103.229.254.25:7001/play/a0c2/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=854d74cf7c37c2755d6933da4e59f0f6abe4f6b5-2000a18a55209870686e1394322ac5bb-1777703552-1777692752
 #EXTINF:-1 ,ZeeBanglaCinemaHD
 http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
 #EXTINF:-1 ,sony max hd
@@ -83,6 +85,8 @@ http://172.16.29.2:8090/hls/SonyAtth.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 ,Star Movies
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony PIX
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
 #EXTINF:-1 ,24/7 Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 ,Mehedi Net-01626886070
