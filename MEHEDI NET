@@ -68,7 +68,7 @@ https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ZeeBanglaHD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,JalshaMoviesHD
-http://103.89.248.14:8082/JALSHA-MOVIES/tracks-v1/index.fmp4.m3u8?token=6173636142fd9b41c041c91baff732d225723c71-2657a1aa2f71e2922b90a29a790d01b0-1779775600-1779764800
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 ,Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,ColorsBanglaHD
