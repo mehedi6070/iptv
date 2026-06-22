@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,Tspots 1 Backup
+https://tvdd.easypecker.com/TSportsHD_sf_bdix/index.m3u8
+#EXTINF:-1 ,SPORTS 2
+https://tvdd.easypecker.com/spotyfyz_bdix/index.m3u8
+#EXTINF:-1 ,Tspots 2 Backup
+https://tvdd.easypecker.com/TSportsHD_sf_nix/index.m3u8
+#EXTINF:-1 ,Tspots 4 Backup
+https://tvdd.easypecker.com/TSportsHD_rc_bdix/index.m3u8
 #EXTINF:-1 ,tsportshd
 http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Maasranga TV
@@ -163,7 +171,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 ,ZB CARTOON
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 ,Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 ,Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
