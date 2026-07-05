@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,Tspots 1 Backup
+http://50.50.50.50:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,tsportshd
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 ,Tspots 1 Backup
 https://tvdd.easypecker.com/TSportsHD_sf_bdix/index.m3u8
 #EXTINF:-1 ,SPORTS 2
 https://tvdd.easypecker.com/spotyfyz_bdix/index.m3u8
